@@ -1,8 +1,7 @@
 # ArvatoCustomerSegmentation
 In this project, we create a customer segmentation report for Arvato Financial Solutions.
 
-1) In this project, we used the following libraries:
-
+## Libraries
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -27,7 +26,8 @@ from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 
-2) The following datasets provided by Arvato were used:
+## Datasets
+The datasets were provided by Arvato Finacial Solutions.
 
 azdias.csv
 customers.csv
