@@ -50,8 +50,11 @@ from sklearn.ensemble import GradientBoostingClassifier
 ## Datasets
 The datasets were provided by Arvato Finacial Solutions.
 
-azdias.csv
+- Udacity_AZDIAS_052018.csv
+- Udacity_CUSTOMERS_052018.csv
+- Udacity_MAILOUT_052018_TRAIN.csv
+- Udacity_MAILOUT_052018_TEST.csv
+- DIAS Information Levels - Attributes 2017.xlsx
+- DIAS Attributes - Values 2017.xlsx
 
-customers.csv
-
-DIAS Attributes - Values 2017.xlsx
+Whereas the first four datasets were used for building the models, the last two datasets provided a high-level description of the above-mentioned datasets.
