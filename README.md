@@ -1,5 +1,8 @@
-# ArvatoCustomerSegmentation
-In this project, we create a customer segmentation report for Arvato Financial Solutions.
+# Arvato Customer Segmentation
+In this project, we create a customer segmentation report for Arvato Financial Solutions. The project is divided into three main parts:
+- Data preprocessing
+- Unsupervised learning to create customer segments
+- Supervised learning to predict which individuals are most likely to respond to a marketing campaign
 
 ## Libraries
 import numpy as np
